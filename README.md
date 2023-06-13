@@ -2,3 +2,5 @@
 ![Capturew](https://github.com/sabarishkarmegamk/Laravel-9-CRUD-IMAGE-UPLOAD/assets/128790623/3a986cc9-e920-4cf4-8de7-75a25958024c)
 
 image store two folder create public file.
+1.images,
+2.pic.
